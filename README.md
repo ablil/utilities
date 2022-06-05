@@ -2,5 +2,7 @@
 
 Utilities script written in Python or Shell.
 
-Most of these script are related to either: pentesting, networking
+## Install python dependencies
+
+```pip3 install -r requirements.txt```
 
